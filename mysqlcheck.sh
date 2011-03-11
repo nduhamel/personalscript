@@ -1,4 +1,4 @@
-#! /bin/sh
+#!/bin/sh
 
 FILE=/etc/cron.d/myslqcheck
 
